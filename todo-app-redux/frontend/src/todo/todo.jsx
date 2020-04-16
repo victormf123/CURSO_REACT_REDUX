@@ -1,5 +1,5 @@
 import React, {Component} from 'react'
-import axios from '../../node_modules/axios'
+import axios from 'axios'
 
 import PageHeader from '../template/pageHeader'
 import TodoForm from './todoForm'
